@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PSPChaterBot</string>
+
+    <string name="etInput">Message...</string>
+    <string name="btSend">Send</string>
+    <string name="btSpeech">Speech</string>
+
+</resources>
